@@ -1,0 +1,59 @@
+p {
+
+    font-size: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+
+
+}
+
+.verde {
+
+    color: darkgreen;
+    text-decoration: underline;
+
+}
+
+.rojo1 {
+
+    color: #ff0000 ;
+    font-weight: bold;
+
+}
+
+.decoracion:hover {
+
+    text-decoration: overline underline;
+    color: blueviolet;
+    
+}
+
+.letragrande{
+
+    font-size: 100px;
+    font-weight: bold;
+
+}
+
+.azul {
+
+    color: blue;
+    font-weight: bold;
+
+}
+
+.rojo {
+
+    color: #ff0000;
+    text-decoration: underline;
+    font-weight: bold;
+
+
+}
+
+.decoracion{
+
+    color: black;
+    text-decoration: overline underline;
+
+}
